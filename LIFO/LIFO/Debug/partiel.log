@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (partiel.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  pch.cpp
+  partiel.cpp
+c:\users\grego\source\repos\partiel\partiel\cstack.h(51): warning C4018: '>=' : incompatibilité signed/unsigned
+  c:\users\grego\source\repos\partiel\partiel\cstack.h(43): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  c:\users\grego\source\repos\partiel\partiel\partiel.cpp(18): note: voir la référence à l'instanciation de la fonction modèle 'bool CStack<int>::full(void)' en cours de compilation
+  c:\users\grego\source\repos\partiel\partiel\partiel.cpp(9): note: voir la référence à l'instanciation de classe modèle 'CStack<int>' en cours de compilation
+  partiel.vcxproj -> C:\Users\grego\Source\Repos\partiel\Debug\LIFO.exe
